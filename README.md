@@ -44,3 +44,7 @@ Chrome extension for detecting and downloading videos from Kajabi lesson pages.
 Public repo:
 
 - [quangtn998/kajabi-downloader](https://github.com/quangtn998/kajabi-downloader)
+
+## License
+
+MIT
